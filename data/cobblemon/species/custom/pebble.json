@@ -1,0 +1,120 @@
+{
+	"implemented": true,
+	"name": "pebble",
+	"nationalPokedexNumber": 2001,
+	"primaryType": "normal",
+	"abilities": [
+		"simple",
+		"unaware",
+		"h:battlearmor"
+	],
+	"baseStats": {
+		"hp": 70,
+		"attack": 65,
+		"defence": 80,
+		"special_attack": 55,
+		"special_defence": 70,
+		"speed": 60
+	},
+	"behaviour": {
+		"moving": {
+			"canLook": false
+		}
+	},
+	"catchRate": 69,
+	"maleRatio": 0.5,
+	"shoulderMountable": false,
+	"forms": [],
+	"baseExperienceYield": 42,
+	"experienceGroup": "fluctuating",
+	"eggCycles": 25,
+	"eggGroups": [
+		"field",
+		"monster"
+	],
+	"drops": {
+		"amount": "2",
+		"entries": [
+			{
+				"item": "minecraft:leather",
+				"quantityRange": "1-2",
+				"percentage": 30
+			},
+			{
+				"item": "minecraft:pork_chop",
+				"quantityRange": "1-2",
+				"percentage": 30
+			},
+			{
+				"item": "cobblemon:oran_berry",
+				"quantityRange": "1-2",
+				"percentage": 30
+			}
+		]
+	},
+	"moves": [
+		"egg:disable",
+		"egg:dizzypunch",
+		"egg:mudbomb",
+		"egg:sleeptalk",
+		"egg:sludge",
+		"egg:spitup",
+		"egg:stockpile",
+		"egg:swallow",
+		"egg:zenheadbutt",
+		"0:tackle",
+		"0:defensecurl",
+		"5:sandattack",
+		"8:headbutt",
+		"12:doublekick",
+		"15:rollout",
+		"18:bite",
+		"21:dig",
+		"24:rest",
+		"27:bodyslam",
+		"30:snore",
+		"33:protect",
+		"36:takedown",
+		"39:swordsdance",
+		"42:bellydrum",
+		"45:superpower",
+		"99:splash",
+		"tm:darkpulse",
+		"tm:dragonclaw",
+		"tm:drainpunch",
+		"tm:earthquake",
+		"tm:falseswipe",
+		"tm:frustration",
+		"tm:liquidation",
+		"tm:nastyplot",
+		"tm:payback",
+		"tm:poisonjab",
+		"tm:quash",
+		"tm:rest",
+		"tm:retaliate",
+		"tm:return",
+		"tm:rockclimb",
+		"tm:scald",
+		"tm:secretpower",
+		"tm:shadowclaw",
+		"tm:taunt",
+		"tm:torment",
+		"tm:toxic",
+		"tm:uproar",
+		"tutor:honeclaws"
+	],
+	"labels": [
+		"custom"
+	],
+	"pokedex": [
+		"cobblemon.species.pebble.desc1",
+		"cobblemon.species.pebble.desc2"
+	],
+	"baseFriendship": 50,
+	"evYield": {
+		"hp": 2,
+		"special_attack": 1
+	},
+	"height": 5,
+	"weight": 30
+}

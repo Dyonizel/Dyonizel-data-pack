@@ -1,0 +1,133 @@
+{
+	"implemented": true,
+	"name": "maidoleric",
+	"nationalPokedexNumber": 2005,
+	"primaryType": "fairy",
+	"abilities": [
+		"gluttony",
+		"magician",
+        "h:flamebody"
+	],
+	"baseStats": {
+		"hp": 100,
+		"attack": 69,
+		"defence": 95,
+		"special_attack": 100,
+		"special_defence": 95,
+		"speed": 50
+	},
+	"behaviour": {
+		"moving": {
+			"canLook": true,
+			"swim": {
+				"swimSpeed": 0.2,
+				"canSwimInWater": true
+			}
+		}
+	},
+	"catchRate": 50,
+	"maleRatio": 0.5,
+	"features": [
+		"milkable"
+	],
+	"shoulderMountable": false,
+	"forms": [],
+	"baseExperienceYield": 270,
+	"experienceGroup": "fluctuating",
+	"eggCycles": 25,
+	"eggGroups": [
+		"field",
+		"monster"
+	],
+	"hitbox": {
+		"width": 1.0,
+		"height": 2.0,
+		"fixed": false
+	  },
+	"drops": {
+		"amount": "2",
+		"entries": [
+			{
+				"item": "minecraft:milk_bucket",
+				"quantityRange": "1",
+				"percentage": 66
+			},
+			{
+				"item": "minecraft:leather",
+				"quantityRange": "1-3",
+				"percentage": 1
+			}
+		]
+	},
+	"moves": [
+		"egg:disable",
+		"egg:dizzypunch",
+		"egg:mudbomb",
+		"egg:sleeptalk",
+		"egg:sludge",
+		"egg:spitup",
+		"egg:stockpile",
+		"egg:swallow",
+		"egg:zenheadbutt",
+		"0:tackle",
+        "0:aromaticmist",
+		"0:charm",
+		"0:strangesteam",
+		"0:disarmingvoice",
+		"4:yawn",
+		"7:hypervoice",
+		"8:armthrust",
+		"16:drainingkiss",
+		"18:bubble",
+		"20:crushclaw",
+		"24:knockoff",
+		"28:gastroacid",
+		"32:playrough",
+		"36:bellydrum",
+		"40:detect",
+		"44:protect",
+		"48:harden",
+		"52:sacredsword",
+		"59:superpower",
+		"69:swordsdance",
+		"99:self-destruct",
+		"99:splash",
+		"tm:darkpulse",
+		"tm:dragonclaw",
+		"tm:drainpunch",
+		"tm:earthquake",
+		"tm:falseswipe",
+		"tm:frustration",
+		"tm:liquidation",
+		"tm:nastyplot",
+		"tm:payback",
+		"tm:poisonjab",
+		"tm:quash",
+		"tm:rest",
+		"tm:retaliate",
+		"tm:return",
+		"tm:rockclimb",
+		"tm:scald",
+		"tm:secretpower",
+		"tm:shadowclaw",
+		"tm:taunt",
+		"tm:torment",
+		"tm:toxic",
+		"tm:uproar",
+		"tutor:honeclaws"
+	],
+	"labels": [
+		"custom"
+	],
+	"pokedex": [
+		"cobblemon.species.maidoleric.desc1",
+		"cobblemon.species.maidoleric.desc2"
+	],
+	"baseFriendship": 35,
+	"evYield": {
+		"hp": 2,
+		"special_attack": 1
+	},
+	"height": 30,
+	"weight": 589
+}

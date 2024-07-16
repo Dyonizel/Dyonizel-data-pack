@@ -1,0 +1,17 @@
+{
+    "type": "xania:vault",
+    "generator":{
+        "type": "flat",
+        "settings": {
+            "layers": [
+                {
+                    "height": 1,
+                    "block": "minecraft:air"
+                }
+            ],
+            "biome": "minecraft:the_void",
+            "features": true,
+            "structure_overrides": []
+        }
+    }
+}
