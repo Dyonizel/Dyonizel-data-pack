@@ -1,0 +1,24 @@
+{
+    "enabled": true,
+    "neededInstalledMods": [],
+    "neededUninstalledMods": [],
+    "spawns": [
+		{
+            "id": "pebblesol-1",
+            "pokemon": "pebblesol",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "ultra-rare",
+            "level": "3-22",
+            "weight":10.0,
+            "condition": {
+                "biomes": [
+                    "minecraft:desert"
+                ]
+            }
+        }
+    ]
+}

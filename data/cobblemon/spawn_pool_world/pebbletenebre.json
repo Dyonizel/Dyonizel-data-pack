@@ -1,0 +1,28 @@
+{
+    "enabled": true,
+    "neededInstalledMods": [],
+    "neededUninstalledMods": [],
+    "spawns": [
+		{
+            "id": "pebbletenebre-1",
+            "pokemon": "pebbletenebre",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "ultra-rare",
+            "level": "3-22",
+            "weight":10.0,
+            "condition": {
+                "biomes": [
+                    "minecraft:stony_peaks",
+					"minecraft:soul_sand_valley"
+                ],
+                "timeRange": [
+                    "night"
+                ]
+            }
+        }
+    ]
+}

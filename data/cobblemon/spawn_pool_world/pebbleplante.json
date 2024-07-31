@@ -1,0 +1,26 @@
+{
+    "enabled": true,
+    "neededInstalledMods": [],
+    "neededUninstalledMods": [],
+    "spawns": [
+		{
+            "id": "pebbleplante-1",
+            "pokemon": "pebbleplante",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "ultra-rare",
+            "level": "3-22",
+            "weight":10.0,
+            "condition": {
+                "biomes": [
+                    "#minecraft:sunflower_plains",
+					"#minecraft:flower_forest",
+					"#minecraft:meadow"
+                ]
+            }
+        }
+    ]
+}

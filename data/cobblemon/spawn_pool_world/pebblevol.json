@@ -1,0 +1,28 @@
+{
+    "enabled": true,
+    "neededInstalledMods": [],
+    "neededUninstalledMods": [],
+    "spawns": [
+		{
+            "id": "pebblevol-1",
+            "pokemon": "pebblevol",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "ultra-rare",
+            "level": "3-22",
+            "weight":10.0,
+            "condition": {
+                "biomes": [
+                    "#cobblemon:is_hills",
+					"#minecraft:windswept_gravelly_hills",
+                    "minecraft:stony_peaks",
+                    "minecraft:jagged_peaks",
+                    "minecraft:frozen_peaks"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,141 @@
+{
+    "implemented": true,
+    "name": "pombat",
+    "nationalPokedexNumber": 2003,
+    "primaryType": "fighting",
+    "abilities": [
+        "simple",
+		"unaware",
+        "h:battlearmor"
+    ],
+    "baseStats": {
+        "hp": 100,
+        "attack": 110,
+        "defence": 110,
+        "special_attack": 65,
+        "special_defence": 85,
+        "speed": 60
+    },
+	"behaviour": {
+        "moving": {
+            "canLook": false,
+            "swim": {
+                "swimSpeed": 0.2,
+                "canSwimInWater": false,
+				"canBreatheUnderwater": false
+            }
+        }
+    },
+    "preEvolution": "pebble",
+    "catchRate": 69,
+    "maleRatio": 0.5,
+    "shoulderMountable": true,
+    "forms": [],
+    "baseExperienceYield": 42,
+    "experienceGroup": "fluctuating",
+    "eggCycles": 25,
+    "eggGroups": [
+        "field",
+		"monster"
+    ],
+    "shoulderEffects": [
+        {
+          "type": "potion_effect",
+          "effect": "minecraft:strength",
+          "amplifier": 0,
+          "ambient": true,
+          "showParticles": false,
+          "showIcon": false
+        }
+    ],
+    "hitbox": {
+        "width": 0.4,
+        "height": 0.4,
+        "fixed": false
+    },
+    "drops": {
+        "amount": "2",
+        "entries": [
+            {
+                "item": "minecraft:leather",
+                "quantityRange": "1-2",
+                "percentage": 30
+            },
+            {
+                "item": "minecraft:yellow_wool",
+                "quantityRange": "1-2",
+                "percentage": 30
+            },
+			{
+                "item": "cobblemon:oran_berry",
+                "quantityRange": "1-2",
+                "percentage": 30
+            }
+        ]
+    },
+    "moves": [
+		"egg:disable",
+		"egg:dizzypunch",
+		"egg:mudbomb",
+		"egg:sleeptalk",
+		"egg:sludge",
+		"egg:spitup",
+		"egg:stockpile",
+		"egg:swallow",
+		"egg:zenheadbutt",
+        "0:tackle",
+		"0:defensecurl",
+		"5:sandattack",
+		"8:headbutt",
+		"12:doublekick",
+		"15:rollout",
+		"18:bite",
+		"21:dig",
+		"24:bulkup",
+		"27:bodyslam",
+		"30:closecombat",
+		"33:protect",
+		"36:takedown",
+		"39:finalgambit",
+		"42:bellydrum",
+		"45:lowkick",
+		"99:splash",
+		"tm:darkpulse",
+		"tm:dragonclaw",
+		"tm:drainpunch",
+		"tm:earthquake",
+		"tm:falseswipe",
+		"tm:frustration",
+		"tm:liquidation",
+		"tm:nastyplot",
+		"tm:payback",
+		"tm:poisonjab",
+		"tm:quash",
+		"tm:rest",
+		"tm:retaliate",
+		"tm:return",
+		"tm:rockclimb",
+		"tm:scald",
+		"tm:secretpower",
+		"tm:shadowclaw",
+		"tm:taunt",
+		"tm:torment",
+		"tm:toxic",
+		"tm:uproar",
+        "tutor:honeclaws"
+    ],
+    "labels": [
+        "custom"
+    ],
+    "pokedex": [
+        "cobblemon.species.pombat.desc1",
+        "cobblemon.species.pombat.desc2"
+    ],
+    "baseFriendship": 50,
+    "evYield": {
+        "hp": 2,
+		"special_attack": 1
+    },
+    "height": 5,
+    "weight": 30
+}

@@ -1,0 +1,30 @@
+{
+    "enabled": true,
+    "neededInstalledMods": [],
+    "neededUninstalledMods": [],
+    "spawns": [
+		{
+            "id": "pebblefeu-1",
+            "pokemon": "pebblefeu",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "ultra-rare",
+            "level": "3-22",
+            "weight":10.0,
+            "condition": {
+                "biomes": [
+                    "#minecraft:is_nether",
+					"#cobblemon:is_nether_basalt",
+					"#cobblemon:is_nether_crimson",
+                    "#cobblemon:is_nether_desert",
+                    "#cobblemon:is_nether_forest",
+                    "#cobblemon:is_nether_frozen",
+                    "#cobblemon:is_nether_fungus"
+                ]
+            }
+        }
+    ]
+}

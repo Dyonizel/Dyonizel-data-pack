@@ -1,0 +1,141 @@
+{
+    "implemented": true,
+    "name": "pebblefee",
+    "nationalPokedexNumber": 2007,
+    "primaryType": "fairy",
+    "abilities": [
+        "simple",
+		"unaware",
+        "h:battlearmor"
+    ],
+    "baseStats": {
+        "hp": 90,
+        "attack": 75,
+        "defence": 80,
+        "special_attack": 135,
+        "special_defence": 75,
+        "speed": 75
+    },
+	"behaviour": {
+        "moving": {
+            "canLook": false,
+            "swim": {
+                "swimSpeed": 0.2,
+                "canSwimInWater": false,
+				"canBreatheUnderwater": false
+            }
+        }
+    },
+    "preEvolution": "pebble",
+    "catchRate": 69,
+    "maleRatio": 0.5,
+    "shoulderMountable": true,
+    "forms": [],
+    "baseExperienceYield": 42,
+    "experienceGroup": "fluctuating",
+    "eggCycles": 25,
+    "eggGroups": [
+        "field",
+		"monster"
+    ],
+    "drops": {
+        "amount": "2",
+        "entries": [
+            {
+                "item": "minecraft:leather",
+                "quantityRange": "1-2",
+                "percentage": 30
+            },
+            {
+                "item": "minecraft:pork_chop",
+                "quantityRange": "1-2",
+                "percentage": 30
+            },
+			{
+                "item": "cobblemon:oran_berry",
+                "quantityRange": "1-2",
+                "percentage": 30
+            }
+        ]
+    },
+    "hitbox": {
+        "width": 0.4,
+        "height": 0.4,
+        "fixed": false
+    },
+	"shoulderEffects": [
+   {
+     "type": "potion_effect",
+     "effect": "minecraft:instant_health",
+     "amplifier": 0,
+     "ambient": true,
+     "showParticles": false,
+     "showIcon": false
+   }
+ ],
+    "moves": [
+		"egg:disable",
+		"egg:dizzypunch",
+		"egg:mudbomb",
+		"egg:sleeptalk",
+		"egg:sludge",
+		"egg:spitup",
+		"egg:stockpile",
+		"egg:swallow",
+		"egg:zenheadbutt",
+        "0:tackle",
+		"0:defensecurl",
+		"5:sandattack",
+		"8:headbutt",
+		"12:doublekick",
+		"15:rollout",
+		"18:bite",
+		"21:mistyexplosion",
+		"24:dazzlinggleam",
+		"27:bodyslam",
+		"30:fleurcannon",
+		"33:protect",
+		"36:takedown",
+		"39:swordsdance",
+		"42:alluringvoice",
+		"45:superpower",
+		"99:splash",
+		"tm:darkpulse",
+		"tm:dragonclaw",
+		"tm:drainpunch",
+		"tm:earthquake",
+		"tm:falseswipe",
+		"tm:frustration",
+		"tm:liquidation",
+		"tm:nastyplot",
+		"tm:payback",
+		"tm:poisonjab",
+		"tm:quash",
+		"tm:rest",
+		"tm:retaliate",
+		"tm:return",
+		"tm:rockclimb",
+		"tm:scald",
+		"tm:secretpower",
+		"tm:shadowclaw",
+		"tm:taunt",
+		"tm:torment",
+		"tm:toxic",
+		"tm:uproar",
+        "tutor:honeclaws"
+    ],
+    "labels": [
+        "custom"
+    ],
+    "pokedex": [
+        "cobblemon.species.pebble.desc1",
+        "cobblemon.species.pebble.desc2"
+    ],
+    "baseFriendship": 50,
+    "evYield": {
+        "hp": 2,
+		"special_attack": 1
+    },
+    "height": 5,
+    "weight": 30
+}
