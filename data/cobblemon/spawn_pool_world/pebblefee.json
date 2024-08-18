@@ -13,11 +13,11 @@
             "context": "grounded",
             "bucket": "ultra-rare",
             "level": "3-22",
-            "weight":10.0,
+            "weight": 1.0,
             "condition": {
-                "neededBaseBlocks": [
-                    "#minecraft:enchanting_table",
-                    "#minecraft:bookshelf"
+                "neededNearbyBlocks": [
+                    "minecraft:enchanting_table",
+                    "minecraft:bookshelf"
                 ]
             }
         }

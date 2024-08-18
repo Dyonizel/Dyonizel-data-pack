@@ -13,10 +13,12 @@
             "context": "grounded",
             "bucket": "rare",
             "level": "3-22",
-            "weight": 10.0,
+            "weight": 0.5,
             "condition": {
                 "biomes": [
-					"#minecraft:is_end"
+					"#cobblemon:is_plains",
+					"#minecraft:is_forest",
+					"#cobblemon:is_floral"
                 ]
             }
         }
