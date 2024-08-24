@@ -11,9 +11,9 @@
             ],
             "type": "pokemon",
             "context": "grounded",
-            "bucket": "ultra-rare",
+            "bucket": "rare",
             "level": "3-22",
-            "weight": 1.0,
+            "weight": 8.0,
             "condition": {
                 "biomes": [
                     "minecraft:stony_peaks",
