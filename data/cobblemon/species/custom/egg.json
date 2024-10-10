@@ -1,0 +1,131 @@
+{
+    "implemented": true,
+    "name": "egg",
+    "nationalPokedexNumber": 2030,
+    "primaryType": "fairy",
+    "abilities": [
+        "trace",
+		"shellarmor",
+        "h:superluck"
+    ],
+    "baseStats": {
+        "hp": 70,
+        "attack": 50,
+        "defence": 55,
+        "special_attack": 80,
+        "special_defence": 80,
+        "speed": 65
+    },
+	"behaviour": {
+        "moving": {
+            "canLook": false,
+            "swim": {
+                "swimSpeed": 0.2,
+                "canSwimInWater": false,
+				"canBreatheUnderwater": false
+            }
+        }
+    },
+    "catchRate": 88,
+    "maleRatio": 0.5,
+    "shoulderMountable": true,
+    "forms": [],
+    "baseExperienceYield": 42,
+    "experienceGroup": "fluctuating",
+    "eggCycles": 25,
+    "eggGroups": [
+        "field",
+		"monster"
+    ],
+	"hitbox": {
+		"width": 0.5,
+		"height": 0.7
+	},
+    "drops": {
+        "amount": "2",
+        "entries": [
+            {
+                "item": "minecraft:egg",
+                "quantityRange": "1-2",
+                "percentage": 30
+            },
+            {
+                "item": "minecraft:white_dye",
+                "quantityRange": "1-2",
+                "percentage": 30
+            },
+			{
+                "item": "cobblemon:oran_berry",
+                "quantityRange": "1-2",
+                "percentage": 30
+            }
+        ]
+    },
+    "moves": [
+		"egg:disable",
+		"egg:present",
+		"egg:watergun",
+		"egg:sleeptalk",
+		"egg:sludge",
+		"egg:spitup",
+		"egg:stockpile",
+		"egg:swallow",
+		"egg:zenheadbutt",
+        "0:tackle",
+		"0:defensecurl",
+		"5:disarmingvoice",
+		"8:headbutt",
+		"12:babydolleyes",
+		"15:rollout",
+		"18:taunt",
+		"21:softboiled",
+		"21:skillswap",
+		"24:flamethrower",
+		"26:meditate",
+		"27:bodyslam",
+		"30:rest",
+		"30:snore",
+		"33:protect",
+		"36:dazzlinggleam",
+		"39:hyperbeam",
+		"42:bellydrum",
+		"45:lavaplume",
+		"50:skullbash",
+		"55:eggbomb",
+		"tm:darkpulse",
+		"tm:dragonclaw",
+		"tm:drainpunch",
+		"tm:earthquake",
+		"tm:falseswipe",
+		"tm:frustration",
+		"tm:liquidation",
+		"tm:nastyplot",
+		"tm:payback",
+		"tm:poisonjab",
+		"tm:quash",
+		"tm:retaliate",
+		"tm:return",
+		"tm:rockclimb",
+		"tm:scald",
+		"tm:secretpower",
+		"tm:shadowclaw",
+		"tm:torment",
+		"tm:toxic",
+		"tm:uproar",
+        "tutor:honeclaws"
+    ],
+    "labels": [
+        "custom"
+    ],
+    "pokedex": [
+        "cobblemon.species.egg.desc1",
+        "cobblemon.species.egg.desc2"
+    ],
+    "baseFriendship": 50,
+    "evYield": {
+        "hp": 1,
+		"special_attack": 2
+    },
+    "height": 5,
+    "weight": 30
+}
