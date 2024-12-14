@@ -1,0 +1,26 @@
+{
+    "enabled": true,
+    "neededInstalledMods": [],
+    "neededUninstalledMods": [],
+    "spawns": [
+		{
+            "id": "pebblenoel-1",
+            "pokemon": "pebblenoel",
+            "presets": [
+				"natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "rare",
+            "level": "3-22",
+            "weight":10.0,
+            "condition": {
+                "biomes": [
+                    "#cobblemon:is_plains",
+					"#minecraft:is_forest",
+					"#cobblemon:is_floral"
+                ]
+            }
+        }
+    ]
+}

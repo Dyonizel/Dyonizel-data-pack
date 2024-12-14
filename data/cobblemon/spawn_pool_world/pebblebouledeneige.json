@@ -1,0 +1,28 @@
+{
+    "enabled": true,
+    "neededInstalledMods": [],
+    "neededUninstalledMods": [],
+    "spawns": [
+		{
+            "id": "pebblebouledeneige-1",
+            "pokemon": "pebblebouledeneige",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "ultra-rare",
+            "level": "3-22",
+            "weight":10.0,
+            "condition": {
+                "biomes": [
+                    "minecraft:snowy_plains",
+					"minecraft:snowy_beach",
+					"minecraft:snowy_slopes",
+                    "minecraft:ice_spikes",
+                    "minecraft:frozen_peaks"
+                ]
+            }
+        }
+    ]
+}
