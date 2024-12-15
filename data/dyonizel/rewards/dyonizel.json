@@ -1,0 +1,2258 @@
+{
+	"month_1": {
+		"day_1": {
+			"item": {
+				"item": "cobblemon:poke_ball",
+				"count": 5
+			}
+		},
+		"day_2": {
+			"item": {
+				"item": "cobblemon:potion",
+				"count": 2
+			}
+		},
+		"day_3": {
+			"item": {
+				"item": "cobblefoods:custap_berry_juice",
+				"count": 3
+			}
+		},
+		"day_4": {
+			"item": {
+				"item": "cobblemon:hp_up",
+				"count": 2
+			}
+		},
+		"day_5": {
+			"item": {
+				"item": "cobblemon:exp_candy_xs",
+				"count": 5
+			}
+		},
+		"day_6": {
+			"item": {
+				"item": "cobblemon:ether",
+				"count": 2
+			}
+		},
+		"day_7": {
+			"item": {
+				"item": "cobblemon:leaf_stone",
+				"count": 1
+			}
+		},
+		"day_8": {
+			"item": {
+				"item": "cobblemon:great_ball",
+				"count": 5
+			}
+		},
+		"day_9": {
+			"item": {
+				"item": "cobblemon:revive",
+				"count": 2
+			}
+		},
+		"day_10": {
+			"item": {
+				"item": "cobblemon:exp_candy_s",
+				"count": 3
+			}
+		},
+		"day_11": {
+			"item": {
+				"item": "cobblefoods:umbreons_moonlit_bluk_berries",
+				"count": 1
+			}
+		},
+		"day_12": {
+			"item": {
+				"item": "cobblemon:pp_up",
+				"count": 2
+			}
+		},
+		"day_13": {
+			"item": {
+				"item": "cobblemon:exp_share",
+				"count": 1
+			}
+		},
+		"day_14": {
+			"item": {
+				"item": "cobblemon:park_ball",
+				"count": 5
+			}
+		},
+		"day_15": {
+			"item": {
+				"item": "cobblemon:exp_candy_m",
+				"count": 2
+			}
+		},
+		"day_16": {
+			"item": {
+				"item": "cobblefoods:cavern_mushroom_quiche",
+				"count": 1
+			}
+		},
+		"day_17": {
+			"item": {
+				"item": "cobblemon:super_potion",
+				"count": 3
+			}
+		},
+		"day_18": {
+			"item": {
+				"item": "cobblemon:fire_stone",
+				"count": 1
+			}
+		},
+		"day_19": {
+			"item": {
+				"item": "cobblemon:iron",
+				"count": 2
+			}
+		},
+		"day_20": {
+			"item": {
+				"item": "cobblemon:exp_candy_l",
+				"count": 1
+			}
+		},
+		"day_21": {
+			"item": {
+				"item": "cobblemon:quick_ball",
+				"count": 5
+			}
+		},
+		"day_22": {
+			"item": {
+				"item": "cobblemon:hyper_potion",
+				"count": 2
+			}
+		},
+		"day_23": {
+			"item": {
+				"item": "cobblemon:water_stone",
+				"count": 1
+			}
+		},
+		"day_24": {
+			"item": {
+				"item": "cobblemon:max_revive",
+				"count": 1
+			}
+		},
+		"day_25": {
+			"item": {
+				"item": "cobblemon:exp_candy_xl",
+				"count": 1
+			}
+		},
+		"day_26": {
+			"item": {
+				"item": "cobblemon:protein",
+				"count": 1
+			}
+		},
+		"day_27": {
+			"item": {
+				"item": "cobblemon:rare_candy",
+				"count": 3
+			}
+		},
+		"day_28": {
+			"item": {
+				"item": "cobblemon:thunder_stone",
+				"count": 1
+			}
+		},
+		"day_29": {
+			"item": {
+				"item": "cobblefoods:sylveons_roseli_berry_swirl",
+				"count": 1
+			}
+		},
+		"day_30": {
+			"item": {
+				"item": "cobblemon:master_ball",
+				"count": 1
+			}
+		},
+		"day_31": {
+			"item": {
+				"item": "cobblefoods:pomeg_berry_juice",
+				"count": 1
+			}
+		}
+	},
+	"month_2": {
+		"day_1": {
+			"item": {
+				"item": "cobblemon:poke_ball",
+				"count": 5
+			}
+		},
+		"day_2": {
+			"item": {
+				"item": "cobblemon:potion",
+				"count": 2
+			}
+		},
+		"day_3": {
+			"item": {
+				"item": "cobblefoods:custap_berry_juice",
+				"count": 3
+			}
+		},
+		"day_4": {
+			"item": {
+				"item": "cobblemon:hp_up",
+				"count": 2
+			}
+		},
+		"day_5": {
+			"item": {
+				"item": "cobblemon:exp_candy_xs",
+				"count": 5
+			}
+		},
+		"day_6": {
+			"item": {
+				"item": "cobblemon:ether",
+				"count": 2
+			}
+		},
+		"day_7": {
+			"item": {
+				"item": "cobblemon:leaf_stone",
+				"count": 1
+			}
+		},
+		"day_8": {
+			"item": {
+				"item": "cobblemon:great_ball",
+				"count": 5
+			}
+		},
+		"day_9": {
+			"item": {
+				"item": "cobblemon:revive",
+				"count": 2
+			}
+		},
+		"day_10": {
+			"item": {
+				"item": "cobblemon:exp_candy_s",
+				"count": 3
+			}
+		},
+		"day_11": {
+			"item": {
+				"item": "cobblefoods:umbreons_moonlit_bluk_berries",
+				"count": 1
+			}
+		},
+		"day_12": {
+			"item": {
+				"item": "cobblemon:pp_up",
+				"count": 2
+			}
+		},
+		"day_13": {
+			"item": {
+				"item": "cobblemon:exp_share",
+				"count": 1
+			}
+		},
+		"day_14": {
+			"item": {
+				"item": "cobblemon:park_ball",
+				"count": 5
+			}
+		},
+		"day_15": {
+			"item": {
+				"item": "cobblemon:exp_candy_m",
+				"count": 2
+			}
+		},
+		"day_16": {
+			"item": {
+				"item": "cobblefoods:cavern_mushroom_quiche",
+				"count": 1
+			}
+		},
+		"day_17": {
+			"item": {
+				"item": "cobblemon:super_potion",
+				"count": 3
+			}
+		},
+		"day_18": {
+			"item": {
+				"item": "cobblemon:fire_stone",
+				"count": 1
+			}
+		},
+		"day_19": {
+			"item": {
+				"item": "cobblemon:iron",
+				"count": 2
+			}
+		},
+		"day_20": {
+			"item": {
+				"item": "cobblemon:exp_candy_l",
+				"count": 1
+			}
+		},
+		"day_21": {
+			"item": {
+				"item": "cobblemon:quick_ball",
+				"count": 5
+			}
+		},
+		"day_22": {
+			"item": {
+				"item": "cobblemon:hyper_potion",
+				"count": 2
+			}
+		},
+		"day_23": {
+			"item": {
+				"item": "cobblemon:water_stone",
+				"count": 1
+			}
+		},
+		"day_24": {
+			"item": {
+				"item": "cobblemon:max_revive",
+				"count": 1
+			}
+		},
+		"day_25": {
+			"item": {
+				"item": "cobblemon:exp_candy_xl",
+				"count": 1
+			}
+		},
+		"day_26": {
+			"item": {
+				"item": "cobblemon:protein",
+				"count": 1
+			}
+		},
+		"day_27": {
+			"item": {
+				"item": "cobblemon:rare_candy",
+				"count": 3
+			}
+		},
+		"day_28": {
+			"item": {
+				"item": "cobblemon:thunder_stone",
+				"count": 1
+			}
+		},
+		"day_29": {
+			"item": {
+				"item": "cobblefoods:sylveons_roseli_berry_swirl",
+				"count": 1
+			}
+		},
+		"day_30": {
+			"item": {
+				"item": "cobblemon:master_ball",
+				"count": 1
+			}
+		},
+		"day_31": {
+			"item": {
+				"item": "cobblefoods:pomeg_berry_juice",
+				"count": 1
+			}
+		}
+	},
+	"month_3": {
+		"day_1": {
+			"item": {
+				"item": "cobblemon:poke_ball",
+				"count": 5
+			}
+		},
+		"day_2": {
+			"item": {
+				"item": "cobblemon:potion",
+				"count": 2
+			}
+		},
+		"day_3": {
+			"item": {
+				"item": "cobblefoods:custap_berry_juice",
+				"count": 3
+			}
+		},
+		"day_4": {
+			"item": {
+				"item": "cobblemon:hp_up",
+				"count": 2
+			}
+		},
+		"day_5": {
+			"item": {
+				"item": "cobblemon:exp_candy_xs",
+				"count": 5
+			}
+		},
+		"day_6": {
+			"item": {
+				"item": "cobblemon:ether",
+				"count": 2
+			}
+		},
+		"day_7": {
+			"item": {
+				"item": "cobblemon:leaf_stone",
+				"count": 1
+			}
+		},
+		"day_8": {
+			"item": {
+				"item": "cobblemon:great_ball",
+				"count": 5
+			}
+		},
+		"day_9": {
+			"item": {
+				"item": "cobblemon:revive",
+				"count": 2
+			}
+		},
+		"day_10": {
+			"item": {
+				"item": "cobblemon:exp_candy_s",
+				"count": 3
+			}
+		},
+		"day_11": {
+			"item": {
+				"item": "cobblefoods:umbreons_moonlit_bluk_berries",
+				"count": 1
+			}
+		},
+		"day_12": {
+			"item": {
+				"item": "cobblemon:pp_up",
+				"count": 2
+			}
+		},
+		"day_13": {
+			"item": {
+				"item": "cobblemon:exp_share",
+				"count": 1
+			}
+		},
+		"day_14": {
+			"item": {
+				"item": "cobblemon:park_ball",
+				"count": 5
+			}
+		},
+		"day_15": {
+			"item": {
+				"item": "cobblemon:exp_candy_m",
+				"count": 2
+			}
+		},
+		"day_16": {
+			"item": {
+				"item": "cobblefoods:cavern_mushroom_quiche",
+				"count": 1
+			}
+		},
+		"day_17": {
+			"item": {
+				"item": "cobblemon:super_potion",
+				"count": 3
+			}
+		},
+		"day_18": {
+			"item": {
+				"item": "cobblemon:fire_stone",
+				"count": 1
+			}
+		},
+		"day_19": {
+			"item": {
+				"item": "cobblemon:iron",
+				"count": 2
+			}
+		},
+		"day_20": {
+			"item": {
+				"item": "cobblemon:exp_candy_l",
+				"count": 1
+			}
+		},
+		"day_21": {
+			"item": {
+				"item": "cobblemon:quick_ball",
+				"count": 5
+			}
+		},
+		"day_22": {
+			"item": {
+				"item": "cobblemon:hyper_potion",
+				"count": 2
+			}
+		},
+		"day_23": {
+			"item": {
+				"item": "cobblemon:water_stone",
+				"count": 1
+			}
+		},
+		"day_24": {
+			"item": {
+				"item": "cobblemon:max_revive",
+				"count": 1
+			}
+		},
+		"day_25": {
+			"item": {
+				"item": "cobblemon:exp_candy_xl",
+				"count": 1
+			}
+		},
+		"day_26": {
+			"item": {
+				"item": "cobblemon:protein",
+				"count": 1
+			}
+		},
+		"day_27": {
+			"item": {
+				"item": "cobblemon:rare_candy",
+				"count": 3
+			}
+		},
+		"day_28": {
+			"item": {
+				"item": "cobblemon:thunder_stone",
+				"count": 1
+			}
+		},
+		"day_29": {
+			"item": {
+				"item": "cobblefoods:sylveons_roseli_berry_swirl",
+				"count": 1
+			}
+		},
+		"day_30": {
+			"item": {
+				"item": "cobblemon:master_ball",
+				"count": 1
+			}
+		},
+		"day_31": {
+			"item": {
+				"item": "cobblefoods:pomeg_berry_juice",
+				"count": 1
+			}
+		}
+	},
+	"month_4": {
+		"day_1": {
+			"item": {
+				"item": "cobblemon:poke_ball",
+				"count": 5
+			}
+		},
+		"day_2": {
+			"item": {
+				"item": "cobblemon:potion",
+				"count": 2
+			}
+		},
+		"day_3": {
+			"item": {
+				"item": "cobblefoods:custap_berry_juice",
+				"count": 3
+			}
+		},
+		"day_4": {
+			"item": {
+				"item": "cobblemon:hp_up",
+				"count": 2
+			}
+		},
+		"day_5": {
+			"item": {
+				"item": "cobblemon:exp_candy_xs",
+				"count": 5
+			}
+		},
+		"day_6": {
+			"item": {
+				"item": "cobblemon:ether",
+				"count": 2
+			}
+		},
+		"day_7": {
+			"item": {
+				"item": "cobblemon:leaf_stone",
+				"count": 1
+			}
+		},
+		"day_8": {
+			"item": {
+				"item": "cobblemon:great_ball",
+				"count": 5
+			}
+		},
+		"day_9": {
+			"item": {
+				"item": "cobblemon:revive",
+				"count": 2
+			}
+		},
+		"day_10": {
+			"item": {
+				"item": "cobblemon:exp_candy_s",
+				"count": 3
+			}
+		},
+		"day_11": {
+			"item": {
+				"item": "cobblefoods:umbreons_moonlit_bluk_berries",
+				"count": 1
+			}
+		},
+		"day_12": {
+			"item": {
+				"item": "cobblemon:pp_up",
+				"count": 2
+			}
+		},
+		"day_13": {
+			"item": {
+				"item": "cobblemon:exp_share",
+				"count": 1
+			}
+		},
+		"day_14": {
+			"item": {
+				"item": "cobblemon:park_ball",
+				"count": 5
+			}
+		},
+		"day_15": {
+			"item": {
+				"item": "cobblemon:exp_candy_m",
+				"count": 2
+			}
+		},
+		"day_16": {
+			"item": {
+				"item": "cobblefoods:cavern_mushroom_quiche",
+				"count": 1
+			}
+		},
+		"day_17": {
+			"item": {
+				"item": "cobblemon:super_potion",
+				"count": 3
+			}
+		},
+		"day_18": {
+			"item": {
+				"item": "cobblemon:fire_stone",
+				"count": 1
+			}
+		},
+		"day_19": {
+			"item": {
+				"item": "cobblemon:iron",
+				"count": 2
+			}
+		},
+		"day_20": {
+			"item": {
+				"item": "cobblemon:exp_candy_l",
+				"count": 1
+			}
+		},
+		"day_21": {
+			"item": {
+				"item": "cobblemon:quick_ball",
+				"count": 5
+			}
+		},
+		"day_22": {
+			"item": {
+				"item": "cobblemon:hyper_potion",
+				"count": 2
+			}
+		},
+		"day_23": {
+			"item": {
+				"item": "cobblemon:water_stone",
+				"count": 1
+			}
+		},
+		"day_24": {
+			"item": {
+				"item": "cobblemon:max_revive",
+				"count": 1
+			}
+		},
+		"day_25": {
+			"item": {
+				"item": "cobblemon:exp_candy_xl",
+				"count": 1
+			}
+		},
+		"day_26": {
+			"item": {
+				"item": "cobblemon:protein",
+				"count": 1
+			}
+		},
+		"day_27": {
+			"item": {
+				"item": "cobblemon:rare_candy",
+				"count": 3
+			}
+		},
+		"day_28": {
+			"item": {
+				"item": "cobblemon:thunder_stone",
+				"count": 1
+			}
+		},
+		"day_29": {
+			"item": {
+				"item": "cobblefoods:sylveons_roseli_berry_swirl",
+				"count": 1
+			}
+		},
+		"day_30": {
+			"item": {
+				"item": "cobblemon:master_ball",
+				"count": 1
+			}
+		},
+		"day_31": {
+			"item": {
+				"item": "cobblefoods:pomeg_berry_juice",
+				"count": 1
+			}
+		}
+	},
+	"month_5": {
+		"day_1": {
+			"item": {
+				"item": "cobblemon:poke_ball",
+				"count": 5
+			}
+		},
+		"day_2": {
+			"item": {
+				"item": "cobblemon:potion",
+				"count": 2
+			}
+		},
+		"day_3": {
+			"item": {
+				"item": "cobblefoods:custap_berry_juice",
+				"count": 3
+			}
+		},
+		"day_4": {
+			"item": {
+				"item": "cobblemon:hp_up",
+				"count": 2
+			}
+		},
+		"day_5": {
+			"item": {
+				"item": "cobblemon:exp_candy_xs",
+				"count": 5
+			}
+		},
+		"day_6": {
+			"item": {
+				"item": "cobblemon:ether",
+				"count": 2
+			}
+		},
+		"day_7": {
+			"item": {
+				"item": "cobblemon:leaf_stone",
+				"count": 1
+			}
+		},
+		"day_8": {
+			"item": {
+				"item": "cobblemon:great_ball",
+				"count": 5
+			}
+		},
+		"day_9": {
+			"item": {
+				"item": "cobblemon:revive",
+				"count": 2
+			}
+		},
+		"day_10": {
+			"item": {
+				"item": "cobblemon:exp_candy_s",
+				"count": 3
+			}
+		},
+		"day_11": {
+			"item": {
+				"item": "cobblefoods:umbreons_moonlit_bluk_berries",
+				"count": 1
+			}
+		},
+		"day_12": {
+			"item": {
+				"item": "cobblemon:pp_up",
+				"count": 2
+			}
+		},
+		"day_13": {
+			"item": {
+				"item": "cobblemon:exp_share",
+				"count": 1
+			}
+		},
+		"day_14": {
+			"item": {
+				"item": "cobblemon:park_ball",
+				"count": 5
+			}
+		},
+		"day_15": {
+			"item": {
+				"item": "cobblemon:exp_candy_m",
+				"count": 2
+			}
+		},
+		"day_16": {
+			"item": {
+				"item": "cobblefoods:cavern_mushroom_quiche",
+				"count": 1
+			}
+		},
+		"day_17": {
+			"item": {
+				"item": "cobblemon:super_potion",
+				"count": 3
+			}
+		},
+		"day_18": {
+			"item": {
+				"item": "cobblemon:fire_stone",
+				"count": 1
+			}
+		},
+		"day_19": {
+			"item": {
+				"item": "cobblemon:iron",
+				"count": 2
+			}
+		},
+		"day_20": {
+			"item": {
+				"item": "cobblemon:exp_candy_l",
+				"count": 1
+			}
+		},
+		"day_21": {
+			"item": {
+				"item": "cobblemon:quick_ball",
+				"count": 5
+			}
+		},
+		"day_22": {
+			"item": {
+				"item": "cobblemon:hyper_potion",
+				"count": 2
+			}
+		},
+		"day_23": {
+			"item": {
+				"item": "cobblemon:water_stone",
+				"count": 1
+			}
+		},
+		"day_24": {
+			"item": {
+				"item": "cobblemon:max_revive",
+				"count": 1
+			}
+		},
+		"day_25": {
+			"item": {
+				"item": "cobblemon:exp_candy_xl",
+				"count": 1
+			}
+		},
+		"day_26": {
+			"item": {
+				"item": "cobblemon:protein",
+				"count": 1
+			}
+		},
+		"day_27": {
+			"item": {
+				"item": "cobblemon:rare_candy",
+				"count": 3
+			}
+		},
+		"day_28": {
+			"item": {
+				"item": "cobblemon:thunder_stone",
+				"count": 1
+			}
+		},
+		"day_29": {
+			"item": {
+				"item": "cobblefoods:sylveons_roseli_berry_swirl",
+				"count": 1
+			}
+		},
+		"day_30": {
+			"item": {
+				"item": "cobblemon:master_ball",
+				"count": 1
+			}
+		},
+		"day_31": {
+			"item": {
+				"item": "cobblefoods:pomeg_berry_juice",
+				"count": 1
+			}
+		}
+	},
+	"month_6": {
+		"day_1": {
+			"item": {
+				"item": "cobblemon:poke_ball",
+				"count": 5
+			}
+		},
+		"day_2": {
+			"item": {
+				"item": "cobblemon:potion",
+				"count": 2
+			}
+		},
+		"day_3": {
+			"item": {
+				"item": "cobblefoods:custap_berry_juice",
+				"count": 3
+			}
+		},
+		"day_4": {
+			"item": {
+				"item": "cobblemon:hp_up",
+				"count": 2
+			}
+		},
+		"day_5": {
+			"item": {
+				"item": "cobblemon:exp_candy_xs",
+				"count": 5
+			}
+		},
+		"day_6": {
+			"item": {
+				"item": "cobblemon:ether",
+				"count": 2
+			}
+		},
+		"day_7": {
+			"item": {
+				"item": "cobblemon:leaf_stone",
+				"count": 1
+			}
+		},
+		"day_8": {
+			"item": {
+				"item": "cobblemon:great_ball",
+				"count": 5
+			}
+		},
+		"day_9": {
+			"item": {
+				"item": "cobblemon:revive",
+				"count": 2
+			}
+		},
+		"day_10": {
+			"item": {
+				"item": "cobblemon:exp_candy_s",
+				"count": 3
+			}
+		},
+		"day_11": {
+			"item": {
+				"item": "cobblefoods:umbreons_moonlit_bluk_berries",
+				"count": 1
+			}
+		},
+		"day_12": {
+			"item": {
+				"item": "cobblemon:pp_up",
+				"count": 2
+			}
+		},
+		"day_13": {
+			"item": {
+				"item": "cobblemon:exp_share",
+				"count": 1
+			}
+		},
+		"day_14": {
+			"item": {
+				"item": "cobblemon:park_ball",
+				"count": 5
+			}
+		},
+		"day_15": {
+			"item": {
+				"item": "cobblemon:exp_candy_m",
+				"count": 2
+			}
+		},
+		"day_16": {
+			"item": {
+				"item": "cobblefoods:cavern_mushroom_quiche",
+				"count": 1
+			}
+		},
+		"day_17": {
+			"item": {
+				"item": "cobblemon:super_potion",
+				"count": 3
+			}
+		},
+		"day_18": {
+			"item": {
+				"item": "cobblemon:fire_stone",
+				"count": 1
+			}
+		},
+		"day_19": {
+			"item": {
+				"item": "cobblemon:iron",
+				"count": 2
+			}
+		},
+		"day_20": {
+			"item": {
+				"item": "cobblemon:exp_candy_l",
+				"count": 1
+			}
+		},
+		"day_21": {
+			"item": {
+				"item": "cobblemon:quick_ball",
+				"count": 5
+			}
+		},
+		"day_22": {
+			"item": {
+				"item": "cobblemon:hyper_potion",
+				"count": 2
+			}
+		},
+		"day_23": {
+			"item": {
+				"item": "cobblemon:water_stone",
+				"count": 1
+			}
+		},
+		"day_24": {
+			"item": {
+				"item": "cobblemon:max_revive",
+				"count": 1
+			}
+		},
+		"day_25": {
+			"item": {
+				"item": "cobblemon:exp_candy_xl",
+				"count": 1
+			}
+		},
+		"day_26": {
+			"item": {
+				"item": "cobblemon:protein",
+				"count": 1
+			}
+		},
+		"day_27": {
+			"item": {
+				"item": "cobblemon:rare_candy",
+				"count": 3
+			}
+		},
+		"day_28": {
+			"item": {
+				"item": "cobblemon:thunder_stone",
+				"count": 1
+			}
+		},
+		"day_29": {
+			"item": {
+				"item": "cobblefoods:sylveons_roseli_berry_swirl",
+				"count": 1
+			}
+		},
+		"day_30": {
+			"item": {
+				"item": "cobblemon:master_ball",
+				"count": 1
+			}
+		},
+		"day_31": {
+			"item": {
+				"item": "cobblefoods:pomeg_berry_juice",
+				"count": 1
+			}
+		}
+	},
+	"month_7": {
+		"day_1": {
+			"item": {
+				"item": "cobblemon:poke_ball",
+				"count": 5
+			}
+		},
+		"day_2": {
+			"item": {
+				"item": "cobblemon:potion",
+				"count": 2
+			}
+		},
+		"day_3": {
+			"item": {
+				"item": "cobblefoods:custap_berry_juice",
+				"count": 3
+			}
+		},
+		"day_4": {
+			"item": {
+				"item": "cobblemon:hp_up",
+				"count": 2
+			}
+		},
+		"day_5": {
+			"item": {
+				"item": "cobblemon:exp_candy_xs",
+				"count": 5
+			}
+		},
+		"day_6": {
+			"item": {
+				"item": "cobblemon:ether",
+				"count": 2
+			}
+		},
+		"day_7": {
+			"item": {
+				"item": "cobblemon:leaf_stone",
+				"count": 1
+			}
+		},
+		"day_8": {
+			"item": {
+				"item": "cobblemon:great_ball",
+				"count": 5
+			}
+		},
+		"day_9": {
+			"item": {
+				"item": "cobblemon:revive",
+				"count": 2
+			}
+		},
+		"day_10": {
+			"item": {
+				"item": "cobblemon:exp_candy_s",
+				"count": 3
+			}
+		},
+		"day_11": {
+			"item": {
+				"item": "cobblefoods:umbreons_moonlit_bluk_berries",
+				"count": 1
+			}
+		},
+		"day_12": {
+			"item": {
+				"item": "cobblemon:pp_up",
+				"count": 2
+			}
+		},
+		"day_13": {
+			"item": {
+				"item": "cobblemon:exp_share",
+				"count": 1
+			}
+		},
+		"day_14": {
+			"item": {
+				"item": "cobblemon:park_ball",
+				"count": 5
+			}
+		},
+		"day_15": {
+			"item": {
+				"item": "cobblemon:exp_candy_m",
+				"count": 2
+			}
+		},
+		"day_16": {
+			"item": {
+				"item": "cobblefoods:cavern_mushroom_quiche",
+				"count": 1
+			}
+		},
+		"day_17": {
+			"item": {
+				"item": "cobblemon:super_potion",
+				"count": 3
+			}
+		},
+		"day_18": {
+			"item": {
+				"item": "cobblemon:fire_stone",
+				"count": 1
+			}
+		},
+		"day_19": {
+			"item": {
+				"item": "cobblemon:iron",
+				"count": 2
+			}
+		},
+		"day_20": {
+			"item": {
+				"item": "cobblemon:exp_candy_l",
+				"count": 1
+			}
+		},
+		"day_21": {
+			"item": {
+				"item": "cobblemon:quick_ball",
+				"count": 5
+			}
+		},
+		"day_22": {
+			"item": {
+				"item": "cobblemon:hyper_potion",
+				"count": 2
+			}
+		},
+		"day_23": {
+			"item": {
+				"item": "cobblemon:water_stone",
+				"count": 1
+			}
+		},
+		"day_24": {
+			"item": {
+				"item": "cobblemon:max_revive",
+				"count": 1
+			}
+		},
+		"day_25": {
+			"item": {
+				"item": "cobblemon:exp_candy_xl",
+				"count": 1
+			}
+		},
+		"day_26": {
+			"item": {
+				"item": "cobblemon:protein",
+				"count": 1
+			}
+		},
+		"day_27": {
+			"item": {
+				"item": "cobblemon:rare_candy",
+				"count": 3
+			}
+		},
+		"day_28": {
+			"item": {
+				"item": "cobblemon:thunder_stone",
+				"count": 1
+			}
+		},
+		"day_29": {
+			"item": {
+				"item": "cobblefoods:sylveons_roseli_berry_swirl",
+				"count": 1
+			}
+		},
+		"day_30": {
+			"item": {
+				"item": "cobblemon:master_ball",
+				"count": 1
+			}
+		},
+		"day_31": {
+			"item": {
+				"item": "cobblefoods:pomeg_berry_juice",
+				"count": 1
+			}
+		}
+	},
+	"month_8": {
+		"day_1": {
+			"item": {
+				"item": "cobblemon:poke_ball",
+				"count": 5
+			}
+		},
+		"day_2": {
+			"item": {
+				"item": "cobblemon:potion",
+				"count": 2
+			}
+		},
+		"day_3": {
+			"item": {
+				"item": "cobblefoods:custap_berry_juice",
+				"count": 3
+			}
+		},
+		"day_4": {
+			"item": {
+				"item": "cobblemon:hp_up",
+				"count": 2
+			}
+		},
+		"day_5": {
+			"item": {
+				"item": "cobblemon:exp_candy_xs",
+				"count": 5
+			}
+		},
+		"day_6": {
+			"item": {
+				"item": "cobblemon:ether",
+				"count": 2
+			}
+		},
+		"day_7": {
+			"item": {
+				"item": "cobblemon:leaf_stone",
+				"count": 1
+			}
+		},
+		"day_8": {
+			"item": {
+				"item": "cobblemon:great_ball",
+				"count": 5
+			}
+		},
+		"day_9": {
+			"item": {
+				"item": "cobblemon:revive",
+				"count": 2
+			}
+		},
+		"day_10": {
+			"item": {
+				"item": "cobblemon:exp_candy_s",
+				"count": 3
+			}
+		},
+		"day_11": {
+			"item": {
+				"item": "cobblefoods:umbreons_moonlit_bluk_berries",
+				"count": 1
+			}
+		},
+		"day_12": {
+			"item": {
+				"item": "cobblemon:pp_up",
+				"count": 2
+			}
+		},
+		"day_13": {
+			"item": {
+				"item": "cobblemon:exp_share",
+				"count": 1
+			}
+		},
+		"day_14": {
+			"item": {
+				"item": "cobblemon:park_ball",
+				"count": 5
+			}
+		},
+		"day_15": {
+			"item": {
+				"item": "cobblemon:exp_candy_m",
+				"count": 2
+			}
+		},
+		"day_16": {
+			"item": {
+				"item": "cobblefoods:cavern_mushroom_quiche",
+				"count": 1
+			}
+		},
+		"day_17": {
+			"item": {
+				"item": "cobblemon:super_potion",
+				"count": 3
+			}
+		},
+		"day_18": {
+			"item": {
+				"item": "cobblemon:fire_stone",
+				"count": 1
+			}
+		},
+		"day_19": {
+			"item": {
+				"item": "cobblemon:iron",
+				"count": 2
+			}
+		},
+		"day_20": {
+			"item": {
+				"item": "cobblemon:exp_candy_l",
+				"count": 1
+			}
+		},
+		"day_21": {
+			"item": {
+				"item": "cobblemon:quick_ball",
+				"count": 5
+			}
+		},
+		"day_22": {
+			"item": {
+				"item": "cobblemon:hyper_potion",
+				"count": 2
+			}
+		},
+		"day_23": {
+			"item": {
+				"item": "cobblemon:water_stone",
+				"count": 1
+			}
+		},
+		"day_24": {
+			"item": {
+				"item": "cobblemon:max_revive",
+				"count": 1
+			}
+		},
+		"day_25": {
+			"item": {
+				"item": "cobblemon:exp_candy_xl",
+				"count": 1
+			}
+		},
+		"day_26": {
+			"item": {
+				"item": "cobblemon:protein",
+				"count": 1
+			}
+		},
+		"day_27": {
+			"item": {
+				"item": "cobblemon:rare_candy",
+				"count": 3
+			}
+		},
+		"day_28": {
+			"item": {
+				"item": "cobblemon:thunder_stone",
+				"count": 1
+			}
+		},
+		"day_29": {
+			"item": {
+				"item": "cobblefoods:sylveons_roseli_berry_swirl",
+				"count": 1
+			}
+		},
+		"day_30": {
+			"item": {
+				"item": "cobblemon:master_ball",
+				"count": 1
+			}
+		},
+		"day_31": {
+			"item": {
+				"item": "cobblefoods:pomeg_berry_juice",
+				"count": 1
+			}
+		}
+	},
+	"month_9": {
+		"day_1": {
+			"item": {
+				"item": "cobblemon:poke_ball",
+				"count": 5
+			}
+		},
+		"day_2": {
+			"item": {
+				"item": "cobblemon:potion",
+				"count": 2
+			}
+		},
+		"day_3": {
+			"item": {
+				"item": "cobblefoods:custap_berry_juice",
+				"count": 3
+			}
+		},
+		"day_4": {
+			"item": {
+				"item": "cobblemon:hp_up",
+				"count": 2
+			}
+		},
+		"day_5": {
+			"item": {
+				"item": "cobblemon:exp_candy_xs",
+				"count": 5
+			}
+		},
+		"day_6": {
+			"item": {
+				"item": "cobblemon:ether",
+				"count": 2
+			}
+		},
+		"day_7": {
+			"item": {
+				"item": "cobblemon:leaf_stone",
+				"count": 1
+			}
+		},
+		"day_8": {
+			"item": {
+				"item": "cobblemon:great_ball",
+				"count": 5
+			}
+		},
+		"day_9": {
+			"item": {
+				"item": "cobblemon:revive",
+				"count": 2
+			}
+		},
+		"day_10": {
+			"item": {
+				"item": "cobblemon:exp_candy_s",
+				"count": 3
+			}
+		},
+		"day_11": {
+			"item": {
+				"item": "cobblefoods:umbreons_moonlit_bluk_berries",
+				"count": 1
+			}
+		},
+		"day_12": {
+			"item": {
+				"item": "cobblemon:pp_up",
+				"count": 2
+			}
+		},
+		"day_13": {
+			"item": {
+				"item": "cobblemon:exp_share",
+				"count": 1
+			}
+		},
+		"day_14": {
+			"item": {
+				"item": "cobblemon:park_ball",
+				"count": 5
+			}
+		},
+		"day_15": {
+			"item": {
+				"item": "cobblemon:exp_candy_m",
+				"count": 2
+			}
+		},
+		"day_16": {
+			"item": {
+				"item": "cobblefoods:cavern_mushroom_quiche",
+				"count": 1
+			}
+		},
+		"day_17": {
+			"item": {
+				"item": "cobblemon:super_potion",
+				"count": 3
+			}
+		},
+		"day_18": {
+			"item": {
+				"item": "cobblemon:fire_stone",
+				"count": 1
+			}
+		},
+		"day_19": {
+			"item": {
+				"item": "cobblemon:iron",
+				"count": 2
+			}
+		},
+		"day_20": {
+			"item": {
+				"item": "cobblemon:exp_candy_l",
+				"count": 1
+			}
+		},
+		"day_21": {
+			"item": {
+				"item": "cobblemon:quick_ball",
+				"count": 5
+			}
+		},
+		"day_22": {
+			"item": {
+				"item": "cobblemon:hyper_potion",
+				"count": 2
+			}
+		},
+		"day_23": {
+			"item": {
+				"item": "cobblemon:water_stone",
+				"count": 1
+			}
+		},
+		"day_24": {
+			"item": {
+				"item": "cobblemon:max_revive",
+				"count": 1
+			}
+		},
+		"day_25": {
+			"item": {
+				"item": "cobblemon:exp_candy_xl",
+				"count": 1
+			}
+		},
+		"day_26": {
+			"item": {
+				"item": "cobblemon:protein",
+				"count": 1
+			}
+		},
+		"day_27": {
+			"item": {
+				"item": "cobblemon:rare_candy",
+				"count": 3
+			}
+		},
+		"day_28": {
+			"item": {
+				"item": "cobblemon:thunder_stone",
+				"count": 1
+			}
+		},
+		"day_29": {
+			"item": {
+				"item": "cobblefoods:sylveons_roseli_berry_swirl",
+				"count": 1
+			}
+		},
+		"day_30": {
+			"item": {
+				"item": "cobblemon:master_ball",
+				"count": 1
+			}
+		},
+		"day_31": {
+			"item": {
+				"item": "cobblefoods:pomeg_berry_juice",
+				"count": 1
+			}
+		}
+	},
+	"month_10": {
+		"day_1": {
+			"item": {
+				"item": "cobblemon:poke_ball",
+				"count": 5
+			}
+		},
+		"day_2": {
+			"item": {
+				"item": "cobblemon:potion",
+				"count": 2
+			}
+		},
+		"day_3": {
+			"item": {
+				"item": "cobblefoods:custap_berry_juice",
+				"count": 3
+			}
+		},
+		"day_4": {
+			"item": {
+				"item": "cobblemon:hp_up",
+				"count": 2
+			}
+		},
+		"day_5": {
+			"item": {
+				"item": "cobblemon:exp_candy_xs",
+				"count": 5
+			}
+		},
+		"day_6": {
+			"item": {
+				"item": "cobblemon:ether",
+				"count": 2
+			}
+		},
+		"day_7": {
+			"item": {
+				"item": "cobblemon:leaf_stone",
+				"count": 1
+			}
+		},
+		"day_8": {
+			"item": {
+				"item": "cobblemon:great_ball",
+				"count": 5
+			}
+		},
+		"day_9": {
+			"item": {
+				"item": "cobblemon:revive",
+				"count": 2
+			}
+		},
+		"day_10": {
+			"item": {
+				"item": "cobblemon:exp_candy_s",
+				"count": 3
+			}
+		},
+		"day_11": {
+			"item": {
+				"item": "cobblefoods:umbreons_moonlit_bluk_berries",
+				"count": 1
+			}
+		},
+		"day_12": {
+			"item": {
+				"item": "cobblemon:pp_up",
+				"count": 2
+			}
+		},
+		"day_13": {
+			"item": {
+				"item": "cobblemon:exp_share",
+				"count": 1
+			}
+		},
+		"day_14": {
+			"item": {
+				"item": "cobblemon:park_ball",
+				"count": 5
+			}
+		},
+		"day_15": {
+			"item": {
+				"item": "cobblemon:exp_candy_m",
+				"count": 2
+			}
+		},
+		"day_16": {
+			"item": {
+				"item": "cobblefoods:cavern_mushroom_quiche",
+				"count": 1
+			}
+		},
+		"day_17": {
+			"item": {
+				"item": "cobblemon:super_potion",
+				"count": 3
+			}
+		},
+		"day_18": {
+			"item": {
+				"item": "cobblemon:fire_stone",
+				"count": 1
+			}
+		},
+		"day_19": {
+			"item": {
+				"item": "cobblemon:iron",
+				"count": 2
+			}
+		},
+		"day_20": {
+			"item": {
+				"item": "cobblemon:exp_candy_l",
+				"count": 1
+			}
+		},
+		"day_21": {
+			"item": {
+				"item": "cobblemon:quick_ball",
+				"count": 5
+			}
+		},
+		"day_22": {
+			"item": {
+				"item": "cobblemon:hyper_potion",
+				"count": 2
+			}
+		},
+		"day_23": {
+			"item": {
+				"item": "cobblemon:water_stone",
+				"count": 1
+			}
+		},
+		"day_24": {
+			"item": {
+				"item": "cobblemon:max_revive",
+				"count": 1
+			}
+		},
+		"day_25": {
+			"item": {
+				"item": "cobblemon:exp_candy_xl",
+				"count": 1
+			}
+		},
+		"day_26": {
+			"item": {
+				"item": "cobblemon:protein",
+				"count": 1
+			}
+		},
+		"day_27": {
+			"item": {
+				"item": "cobblemon:rare_candy",
+				"count": 3
+			}
+		},
+		"day_28": {
+			"item": {
+				"item": "cobblemon:thunder_stone",
+				"count": 1
+			}
+		},
+		"day_29": {
+			"item": {
+				"item": "cobblefoods:sylveons_roseli_berry_swirl",
+				"count": 1
+			}
+		},
+		"day_30": {
+			"item": {
+				"item": "cobblemon:master_ball",
+				"count": 1
+			}
+		},
+		"day_31": {
+			"item": {
+				"item": "cobblefoods:pomeg_berry_juice",
+				"count": 1
+			}
+		}
+	},
+	"month_11": {
+		"day_1": {
+			"item": {
+				"item": "cobblemon:poke_ball",
+				"count": 5
+			}
+		},
+		"day_2": {
+			"item": {
+				"item": "cobblemon:potion",
+				"count": 2
+			}
+		},
+		"day_3": {
+			"item": {
+				"item": "cobblefoods:custap_berry_juice",
+				"count": 3
+			}
+		},
+		"day_4": {
+			"item": {
+				"item": "cobblemon:hp_up",
+				"count": 2
+			}
+		},
+		"day_5": {
+			"item": {
+				"item": "cobblemon:exp_candy_xs",
+				"count": 5
+			}
+		},
+		"day_6": {
+			"item": {
+				"item": "cobblemon:ether",
+				"count": 2
+			}
+		},
+		"day_7": {
+			"item": {
+				"item": "cobblemon:leaf_stone",
+				"count": 1
+			}
+		},
+		"day_8": {
+			"item": {
+				"item": "cobblemon:great_ball",
+				"count": 5
+			}
+		},
+		"day_9": {
+			"item": {
+				"item": "cobblemon:revive",
+				"count": 2
+			}
+		},
+		"day_10": {
+			"item": {
+				"item": "cobblemon:exp_candy_s",
+				"count": 3
+			}
+		},
+		"day_11": {
+			"item": {
+				"item": "cobblefoods:umbreons_moonlit_bluk_berries",
+				"count": 1
+			}
+		},
+		"day_12": {
+			"item": {
+				"item": "cobblemon:pp_up",
+				"count": 2
+			}
+		},
+		"day_13": {
+			"item": {
+				"item": "cobblemon:exp_share",
+				"count": 1
+			}
+		},
+		"day_14": {
+			"item": {
+				"item": "cobblemon:park_ball",
+				"count": 5
+			}
+		},
+		"day_15": {
+			"item": {
+				"item": "cobblemon:exp_candy_m",
+				"count": 2
+			}
+		},
+		"day_16": {
+			"item": {
+				"item": "cobblefoods:cavern_mushroom_quiche",
+				"count": 1
+			}
+		},
+		"day_17": {
+			"item": {
+				"item": "cobblemon:super_potion",
+				"count": 3
+			}
+		},
+		"day_18": {
+			"item": {
+				"item": "cobblemon:fire_stone",
+				"count": 1
+			}
+		},
+		"day_19": {
+			"item": {
+				"item": "cobblemon:iron",
+				"count": 2
+			}
+		},
+		"day_20": {
+			"item": {
+				"item": "cobblemon:exp_candy_l",
+				"count": 1
+			}
+		},
+		"day_21": {
+			"item": {
+				"item": "cobblemon:quick_ball",
+				"count": 5
+			}
+		},
+		"day_22": {
+			"item": {
+				"item": "cobblemon:hyper_potion",
+				"count": 2
+			}
+		},
+		"day_23": {
+			"item": {
+				"item": "cobblemon:water_stone",
+				"count": 1
+			}
+		},
+		"day_24": {
+			"item": {
+				"item": "cobblemon:max_revive",
+				"count": 1
+			}
+		},
+		"day_25": {
+			"item": {
+				"item": "cobblemon:exp_candy_xl",
+				"count": 1
+			}
+		},
+		"day_26": {
+			"item": {
+				"item": "cobblemon:protein",
+				"count": 1
+			}
+		},
+		"day_27": {
+			"item": {
+				"item": "cobblemon:rare_candy",
+				"count": 3
+			}
+		},
+		"day_28": {
+			"item": {
+				"item": "cobblemon:thunder_stone",
+				"count": 1
+			}
+		},
+		"day_29": {
+			"item": {
+				"item": "cobblefoods:sylveons_roseli_berry_swirl",
+				"count": 1
+			}
+		},
+		"day_30": {
+			"item": {
+				"item": "cobblemon:master_ball",
+				"count": 1
+			}
+		},
+		"day_31": {
+			"item": {
+				"item": "cobblefoods:pomeg_berry_juice",
+				"count": 1
+			}
+		}
+	},
+	"month_12": {
+		"day_1": {
+			"item": {
+				"item": "cobblemon:poke_ball",
+				"count": 5
+			}
+		},
+		"day_2": {
+			"item": {
+				"item": "cobblemon:potion",
+				"count": 2
+			}
+		},
+		"day_3": {
+			"item": {
+				"item": "cobblefoods:custap_berry_juice",
+				"count": 3
+			}
+		},
+		"day_4": {
+			"item": {
+				"item": "cobblemon:hp_up",
+				"count": 2
+			}
+		},
+		"day_5": {
+			"item": {
+				"item": "cobblemon:exp_candy_xs",
+				"count": 5
+			}
+		},
+		"day_6": {
+			"item": {
+				"item": "cobblemon:ether",
+				"count": 2
+			}
+		},
+		"day_7": {
+			"item": {
+				"item": "cobblemon:leaf_stone",
+				"count": 1
+			}
+		},
+		"day_8": {
+			"item": {
+				"item": "cobblemon:great_ball",
+				"count": 5
+			}
+		},
+		"day_9": {
+			"item": {
+				"item": "cobblemon:revive",
+				"count": 2
+			}
+		},
+		"day_10": {
+			"item": {
+				"item": "cobblemon:exp_candy_s",
+				"count": 3
+			}
+		},
+		"day_11": {
+			"item": {
+				"item": "cobblefoods:umbreons_moonlit_bluk_berries",
+				"count": 1
+			}
+		},
+		"day_12": {
+			"item": {
+				"item": "cobblemon:pp_up",
+				"count": 2
+			}
+		},
+		"day_13": {
+			"item": {
+				"item": "cobblemon:exp_share",
+				"count": 1
+			}
+		},
+		"day_14": {
+			"item": {
+				"item": "cobblemon:park_ball",
+				"count": 5
+			}
+		},
+		"day_15": {
+			"item": {
+				"item": "cobblemon:exp_candy_m",
+				"count": 2
+			}
+		},
+		"day_16": {
+			"item": {
+				"item": "cobblefoods:cavern_mushroom_quiche",
+				"count": 1
+			}
+		},
+		"day_17": {
+			"item": {
+				"item": "cobblemon:super_potion",
+				"count": 3
+			}
+		},
+		"day_18": {
+			"item": {
+				"item": "cobblemon:fire_stone",
+				"count": 1
+			}
+		},
+		"day_19": {
+			"item": {
+				"item": "cobblemon:iron",
+				"count": 2
+			}
+		},
+		"day_20": {
+			"item": {
+				"item": "cobblemon:exp_candy_l",
+				"count": 1
+			}
+		},
+		"day_21": {
+			"item": {
+				"item": "cobblemon:quick_ball",
+				"count": 5
+			}
+		},
+		"day_22": {
+			"item": {
+				"item": "cobblemon:hyper_potion",
+				"count": 2
+			}
+		},
+		"day_23": {
+			"item": {
+				"item": "cobblemon:water_stone",
+				"count": 1
+			}
+		},
+		"day_24": {
+			"item": {
+				"item": "cobblemon:max_revive",
+				"count": 1
+			}
+		},
+		"day_25": {
+			"item": {
+				"item": "cobblemon:exp_candy_xl",
+				"count": 1
+			}
+		},
+		"day_26": {
+			"item": {
+				"item": "cobblemon:protein",
+				"count": 1
+			}
+		},
+		"day_27": {
+			"item": {
+				"item": "cobblemon:rare_candy",
+				"count": 3
+			}
+		},
+		"day_28": {
+			"item": {
+				"item": "cobblemon:thunder_stone",
+				"count": 1
+			}
+		},
+		"day_29": {
+			"item": {
+				"item": "cobblefoods:sylveons_roseli_berry_swirl",
+				"count": 1
+			}
+		},
+		"day_30": {
+			"item": {
+				"item": "cobblemon:master_ball",
+				"count": 1
+			}
+		},
+		"day_31": {
+			"item": {
+				"item": "cobblefoods:pomeg_berry_juice",
+				"count": 1
+			}
+		}
+	}
+}
