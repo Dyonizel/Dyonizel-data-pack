@@ -11,6 +11,7 @@ give @s minecraft:stone_pickaxe[minecraft:unbreakable={}]
 give @s minecraft:stone_shovel[minecraft:unbreakable={}]
 give @s minecraft:bread 16
 give @s cobblemon:poke_ball 5
+give @s cobblemon:pokedex_red
 recipe give @s *
 spawnpoint @s 342 72 164
 tellraw @a[tag=joined] [{"text":"Bienvenue sur ","color":"light_purple"}, {"text":"DYONIZEL","color":"gold", "bold": true}, " ", {"selector":"@s"}, {"text":" !","color":"light_purple"}]
