@@ -6,9 +6,9 @@ effect give @s minecraft:slowness 16 2 true
 effect give @s xaeroworldmap:no_world_map 16 0 true
 effect give @s xaerominimap:no_entity_radar 16 0 true
 effect give @s xaerominimap:no_minimap 16 0 true
-give @s minecraft:stone_axe{Unbreakable:1b}
-give @s minecraft:stone_pickaxe{Unbreakable:1b}
-give @s minecraft:stone_shovel{Unbreakable:1b}
+give @s minecraft:stone_axe[minecraft:unbreakable={}]
+give @s minecraft:stone_pickaxe[minecraft:unbreakable={}]
+give @s minecraft:stone_shovel[minecraft:unbreakable={}]
 give @s minecraft:bread 16
 give @s cobblemon:poke_ball 5
 recipe give @s *
