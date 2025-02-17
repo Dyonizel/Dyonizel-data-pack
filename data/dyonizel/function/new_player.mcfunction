@@ -9,6 +9,7 @@ effect give @s xaerominimap:no_minimap 16 0 true
 give @s minecraft:stone_axe[minecraft:unbreakable={}]
 give @s minecraft:stone_pickaxe[minecraft:unbreakable={}]
 give @s minecraft:stone_shovel[minecraft:unbreakable={}]
+give @s cobblemon:poke_rod
 give @s minecraft:bread 16
 give @s cobblemon:poke_ball 5
 give @s cobblemon:pokedex_red
